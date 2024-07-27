@@ -12,16 +12,14 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     This is the Modern AI chat website that i have designed Which is 
+     This is the Modern AI chat website UI design using , JavaScript, React and Tailwind CSS. Here i have maintained Beautiful and responsive along with considering perform
     </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
